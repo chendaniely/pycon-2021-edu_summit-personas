@@ -106,24 +106,6 @@ class: inverse center middle
 ---
 
 .pull-left[
-![](./figs/papers/song-2016-table1.png)
-
-- Joint departments
-]
-
-.pull-right[
-![](./figs/papers/song-2016-table2.png)
-
-- Probability + Statistics
-- Data Mining
-- Programming
-]
-
-.myfootnote[Song, I.-Y., and Zhu, Y. (2016). Big data and data science: What should we teach? Expert Systems, 33(4), 364–373. https://doi.org/10.1111/exsy.12130]
-
----
-
-.pull-left[
 ![](./figs/papers/kross-2020-courses.png)
 ]
 
@@ -624,7 +606,7 @@ class: center, middle
 
 # Thanks!
 
-Slides: 
+Slides: https://speakerdeck.com/chendaniely/learner-personas-for-domain-specific-data-science-educational-materials
 
 Repo: https://github.com/chendaniely/pycon-2021-edu_summit-personas
 
@@ -642,6 +624,24 @@ The chakra comes from [remark.js](https://remarkjs.com), [**knitr**](http://yihu
 class: inverse center middle
 
 # Appendix
+
+---
+
+.pull-left[
+![](./figs/papers/song-2016-table1.png)
+
+- Joint departments
+]
+
+.pull-right[
+![](./figs/papers/song-2016-table2.png)
+
+- Probability + Statistics
+- Data Mining
+- Programming
+]
+
+.myfootnote[Song, I.-Y., and Zhu, Y. (2016). Big data and data science: What should we teach? Expert Systems, 33(4), 364–373. https://doi.org/10.1111/exsy.12130]
 
 ---
 
