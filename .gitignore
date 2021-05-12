@@ -1,3 +1,7 @@
+data/*
+slides_files/*
+xaringan-themer.css
+
 # History files
 .Rhistory
 .Rapp.history
